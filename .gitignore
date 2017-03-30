@@ -1,0 +1,6 @@
+.vs/
+*.sln
+_TeamCity*
+*.suo
+*.user
+*.sln.docstates

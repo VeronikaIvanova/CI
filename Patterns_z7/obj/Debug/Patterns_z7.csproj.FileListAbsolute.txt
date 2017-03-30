@@ -1,0 +1,6 @@
+c:\users\acer-pc\documents\visual studio 2015\Projects\Patterns_z7\Patterns_z7\bin\Debug\Patterns_z7.exe.config
+c:\users\acer-pc\documents\visual studio 2015\Projects\Patterns_z7\Patterns_z7\obj\Debug\Patterns_z7.csprojResolveAssemblyReference.cache
+c:\users\acer-pc\documents\visual studio 2015\Projects\Patterns_z7\Patterns_z7\bin\Debug\Patterns_z7.exe
+c:\users\acer-pc\documents\visual studio 2015\Projects\Patterns_z7\Patterns_z7\bin\Debug\Patterns_z7.pdb
+c:\users\acer-pc\documents\visual studio 2015\Projects\Patterns_z7\Patterns_z7\obj\Debug\Patterns_z7.exe
+c:\users\acer-pc\documents\visual studio 2015\Projects\Patterns_z7\Patterns_z7\obj\Debug\Patterns_z7.pdb
