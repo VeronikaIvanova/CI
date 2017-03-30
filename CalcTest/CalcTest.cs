@@ -13,14 +13,14 @@ namespace CalcTest
         public void TestPlus()
         {
             int res = calculator.Plus(10, 10);
-            Assert.AreEqual( 20,res);
+            Assert.AreEqual(20, res);
         }
 
         [TestMethod]
         public void TestMinus()
         {
             int res = calculator.Minus(10, 5);
-            Assert.AreEqual(5,res);
+            Assert.AreEqual(5, res);
         }
 
         [TestMethod]
@@ -29,7 +29,7 @@ namespace CalcTest
 
            
             int res = calculator.Mult(10, 10);
-            Assert.AreEqual( 100,res);
+            Assert.AreEqual(100 ,res);
         }
         [TestMethod]
         [ExpectedException(typeof(DivideByZeroException))]
@@ -57,7 +57,7 @@ namespace CalcTest
         public void TestDev()
         {
             int res = calculator.Dev(10, 2);
-            Assert.AreEqual(5,res);
+            Assert.AreEqual(5, res);
         }
     }
 }
