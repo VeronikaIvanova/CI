@@ -25,10 +25,9 @@ namespace CalcTest
 
         [TestMethod]
         public void TestMult()
-        {
-       
-            int res = calculator.Mult(20, 10);
-            Assert.AreEqual(200 ,res);
+        {      
+            int res = calculator.Mult(10, 10);
+            Assert.AreEqual(100 ,res);
         }
         [TestMethod]
         [ExpectedException(typeof(DivideByZeroException))]
