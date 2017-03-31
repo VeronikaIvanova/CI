@@ -28,8 +28,8 @@ namespace CalcTest
         {
 
            
-            int res = calculator.Mult(10, 10);
-            Assert.AreEqual(100 ,res);
+            int res = calculator.Mult(20, 10);
+            Assert.AreEqual(200 ,res);
         }
         [TestMethod]
         [ExpectedException(typeof(DivideByZeroException))]
