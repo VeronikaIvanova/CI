@@ -26,8 +26,7 @@ namespace CalcTest
         [TestMethod]
         public void TestMult()
         {
-
-           
+       
             int res = calculator.Mult(20, 10);
             Assert.AreEqual(200 ,res);
         }
